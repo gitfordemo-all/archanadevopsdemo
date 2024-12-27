@@ -6,7 +6,6 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 public class PrimeCheckerTest {
-
     @Test
     public void testIsPrime() {
         // Test with prime numbers
